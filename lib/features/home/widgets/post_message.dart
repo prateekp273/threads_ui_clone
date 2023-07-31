@@ -14,7 +14,7 @@ class PostMessage extends StatelessWidget {
               radius: 20,
               backgroundImage: AssetImage('assets/images/prateek.jpg'),
             ),
-            title: const Text('Creed Codes'),
+            title: const Text('Prateek Patel'),
             subtitle: const SizedBox(
                 child: Column(
               crossAxisAlignment: CrossAxisAlignment.start,
