@@ -20,18 +20,18 @@ class SearchPeople extends StatelessWidget {
         mainAxisAlignment: MainAxisAlignment.spaceAround,
         children: [
           Text(
-            'CreedCodes',
+            'PrateekPatel',
             style: TextStyle(
               fontWeight: FontWeight.bold,
             ),
           ),
           SizedBox(height: 5),
           Text(
-            'Creed Codes',
+            'Prateek Patel',
           ),
           SizedBox(height: 5),
           Text(
-            '2.1M followers',
+            '8.6M followers',
           ),
         ],
       ),

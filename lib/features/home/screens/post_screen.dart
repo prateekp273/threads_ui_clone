@@ -37,7 +37,7 @@ class PostScreen extends StatelessWidget {
               title: Column(
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
-                  const Text('CreedCODES'),
+                  const Text('PrateekPatel'),
                   TextFormField(
                     decoration: const InputDecoration(
                       hintText: 'Start a thread...',
