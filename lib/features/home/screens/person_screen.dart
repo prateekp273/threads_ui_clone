@@ -50,12 +50,12 @@ class _PersonScreenState extends State<PersonScreen>
               ),
               const SizedBox(height: 20),
               const Text(
-                'CREED POPCORN',
+                'PRATEEK PATEL',
                 style: TextStyle(fontWeight: FontWeight.bold),
               ),
               const Row(
                 children: [
-                  Text('creed Popcorn'),
+                  Text('prateek patel'),
                   SizedBox(width: 4),
                   Chip(
                     label: Text('threads.net'),
