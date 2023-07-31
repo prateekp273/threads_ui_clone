@@ -31,7 +31,7 @@ class SearchPeople extends StatelessWidget {
           ),
           SizedBox(height: 5),
           Text(
-            '8.6M followers',
+            '273K followers',
           ),
         ],
       ),

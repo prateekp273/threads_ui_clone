@@ -63,7 +63,7 @@ class _PersonScreenState extends State<PersonScreen>
                   )
                 ],
               ),
-              const Text('1,234 followers'),
+              const Text('273K followers'),
               const Row(
                 mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                 children: [

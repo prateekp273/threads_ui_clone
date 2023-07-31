@@ -27,7 +27,7 @@ class SaveInfoLogInScreen extends StatelessWidget {
               ),
               const SizedBox(height: 10),
               const Text(
-                'We\'ll save the login info for CreedCodes, so you won\'t need to enter it next time you log in ',
+                'We\'ll save the login info for PrateekPatel, so you won\'t need to enter it next time you log in ',
                 style: TextStyle(fontSize: 15),
                 textAlign: TextAlign.center,
               ),

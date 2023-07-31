@@ -12,7 +12,7 @@ class FavoriteTile extends StatelessWidget {
           radius: 20,
           backgroundImage: AssetImage('assets/images/threads2.jpeg'),
         ),
-        title: const Text('Creed Popcorn  5h'),
+        title: const Text('threads  5h'),
         subtitle: const Text('Followed you'),
         trailing: ElevatedButton(
           onPressed: () {},
